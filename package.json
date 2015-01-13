@@ -1,0 +1,24 @@
+{
+  "name": "elegant.string.range",
+  "version": "0.0.0",
+  "description": "range string and then replace the ranges with new string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/qiu8310/elegant.string.range"
+  },
+  "keywords": [
+    "string",
+    "range",
+    "replace"
+  ],
+  "author": "Zhonglei Qiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qiu8310/elegant.string.range/issues"
+  },
+  "homepage": "https://github.com/qiu8310/elegant.string.range"
+}
