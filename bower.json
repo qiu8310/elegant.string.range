@@ -1,0 +1,29 @@
+{
+  "name": "elegant.string.range",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/qiu8310/elegant.string.range",
+  "authors": [
+    "Zhonglei Qiu <zhongleiqiu@gmail.com>"
+  ],
+  "description": "range string and then replace the ranges with new string",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "string",
+    "range",
+    "replace"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec",
+    "test",
+    "tests"
+  ]
+}
