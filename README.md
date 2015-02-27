@@ -27,3 +27,12 @@ console.log(rc.replace(function(data) {
 ### node
 
 `npm install elegant.string.range --save`
+
+
+## TODO
+
+* 支持 replace 后的数据恢复
+* replace 之后要更新每个 range 的 start 和 end
+* 添加 range 时可能抛出 range out content Error
+* 支持遍历 range 之外的数据
+* replace(fn) 中的 fn 的 this 对应总是当前 range，并且 range 中还有 text 属性
